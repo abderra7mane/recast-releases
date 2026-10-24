@@ -50,3 +50,7 @@ Versions up to 0.5.0 look for updates in a repo that is no longer public, so the
 don't find new versions. Download the latest DMG from this repo once and replace the
 app in Applications; your recordings, screenshots and settings stay. Updates install
 from inside Recast after that.
+
+## License
+
+Free to use; all rights reserved. See [LICENSE](LICENSE).
